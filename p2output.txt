@@ -1,1 +1,10 @@
-
+ gcc -g p2original.c
+ ./a.out
+Enter the points :
+2
+3
+6
+5
+9
+8
+The points form a traingle
